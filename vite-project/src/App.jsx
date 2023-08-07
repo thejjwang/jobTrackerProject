@@ -8,7 +8,7 @@ const jobCards = jobs.map((job, i) => {
 
 function App() {
   return (
-    // in src/App.jsx
+    // in src/App.jsx fadsf
     <div className="mx-auto max-w-4xl">
       <h1>Job Application Tracker</h1>
       {jobCards}
